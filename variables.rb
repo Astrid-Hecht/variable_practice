@@ -4,3 +4,6 @@ whats_your_name = "Haha I don't know!"
 age = 900
 number_toes = 13
 bones_broken = 0
+bank_account = 0.03
+party_points = 420.69
+favorite_temp = 67.5
