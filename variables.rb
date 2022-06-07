@@ -7,3 +7,6 @@ bones_broken = 0
 bank_account = 0.03
 party_points = 420.69
 favorite_temp = 67.5
+is_alive = true
+making_pancakes = true
+doesnt_know_variables = false
